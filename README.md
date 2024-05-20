@@ -71,14 +71,3 @@ The script uses Python's built-in logging module to provide basic logging functi
 
 If an error occurs, the script will print the traceback to help diagnose the issue. Ensure all dependencies are installed and that Docker is running if required.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request on GitHub.
-
-## Contact
-
-For any questions or issues, please contact the maintainer at [maintainer@example.com].
